@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/samarpan/static/css/main.44299925.css",
+    "main.js": "/samarpan/static/js/main.2844cb61.js",
+    "static/media/logo.png": "/samarpan/static/media/logo.2fca1b04d0440e358126.png",
+    "index.html": "/samarpan/index.html",
+    "main.44299925.css.map": "/samarpan/static/css/main.44299925.css.map",
+    "main.2844cb61.js.map": "/samarpan/static/js/main.2844cb61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44299925.css",
+    "static/js/main.2844cb61.js"
+  ]
+}
